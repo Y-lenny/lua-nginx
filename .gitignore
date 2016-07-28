@@ -1,0 +1,10 @@
+.settings
+.classpath
+.project
+target
+.idea
+*.iml
+generatorConfig.xml
+doc
+build
+*.class
