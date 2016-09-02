@@ -8,3 +8,7 @@ generatorConfig.xml
 doc
 build
 *.class
+CMakeLists.txt
+lua-resty-compare/lib/
+lua-resty-log/lib/
+lua-resty-upstream-healthcheck/com/

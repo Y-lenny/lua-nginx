@@ -1,5 +1,7 @@
 # vim:set ts=4 sw=4 et:
 
+use strict;
+use warnings FATAL => 'all';
 use Test::Nginx::Socket::Lua;
 use Cwd qw(cwd);
 
